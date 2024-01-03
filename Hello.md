@@ -1,1 +1,1 @@
-this file is just a Hello.md file 
+This file is just an Example file for an API endpoint ignore this repo!
